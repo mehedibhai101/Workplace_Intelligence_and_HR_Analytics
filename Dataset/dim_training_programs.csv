@@ -1,0 +1,12 @@
+program_id,program_name,category,provider,cost_per_head
+101,New Hire Orientation,Compliance,Internal HR,0
+102,Code of Conduct Refresher,Compliance,Internal Legal,0
+103,Workplace Safety (OSHA),Compliance,External Agency,5000
+201,Leadership 101: First Time Managers,Leadership,External Consultant,15000
+202,Effective Communication,Soft Skill,Internal HR,0
+203,Remote Work Best Practices,Soft Skill,Internal IT,0
+301,Advanced Excel for Business,Technical,External Vendor,8000
+302,Sales Negotiation Mastery,Functional,External Consultant,12000
+303,Supply Chain Optimization,Functional,External Vendor,10000
+304,Lean Six Sigma Green Belt,Technical,External Agency,25000
+305,Cyber Security Awareness,Technical,Internal IT,0

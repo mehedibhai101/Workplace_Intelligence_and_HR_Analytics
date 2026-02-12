@@ -1,0 +1,28 @@
+job_id,dept_id,job_title,job_level,min_salary,max_salary
+101,1,IT Support Specialist,1,30000,50000
+102,1,Software Engineer,2,60000,90000
+103,1,Senior Software Engineer,3,100000,160000
+104,1,Engineering Manager,4,180000,250000
+105,1,CTO,6,350000,550000
+201,2,Warehouse Associate,1,20000,35000
+202,2,Procurement Officer,2,45000,70000
+203,2,Supply Chain Analyst,2,55000,85000
+204,2,Logistics Manager,4,130000,190000
+205,2,Head of Supply Chain,5,220000,350000
+301,3,Production Assistant,1,15000,22000
+302,3,Machine Operator,1,25000,35000
+303,3,Quality Control Engineer,2,45000,70000
+304,3,Production Supervisor,3,80000,120000
+305,3,Plant Manager,5,200000,320000
+401,4,Sales Associate,1,22000,35000
+402,4,Sales Executive,2,42000,65000
+403,4,Key Account Manager,3,75000,120000
+404,4,Regional Sales Manager,4,140000,200000
+405,4,Sales Director,5,250000,400000
+501,5,Admin Assistant,1,25000,40000
+502,5,Talent Acquisition Specialist,2,50000,80000
+503,5,HR Manager,4,120000,180000
+504,5,Head of HR,5,200000,350000
+601,6,Support Staff,1,16000,24000
+602,6,Senior Technician,2,35000,55000
+603,6,Head of Facilities,5,140000,220000
