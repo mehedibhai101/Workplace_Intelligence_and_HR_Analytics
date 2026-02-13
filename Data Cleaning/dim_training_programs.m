@@ -1,9 +1,9 @@
 let
     // Extracted the training program metadata from the local HR directory.
-    Source_Folder = Folder.Files("C:\Users\perennial\OneDrive\Documents\_HR Analysis\Employee Data"),
+    Source_Folder = Folder.Files("your_folder_path"),
 
     // Accessed the specific binary content for the training program dimension file.
-    File_Content = Source_Folder{[#"Folder Path"="C:\Users\perennial\OneDrive\Documents\_HR Analysis\Employee Data\",Name="dim_training_programs.csv"]}[Content],
+    File_Content = Source_Folder{[#"your_folder_path\",Name="dim_training_programs.csv"]}[Content],
 
     // Imported the CSV document with the correct encoding and 5-column schema.
     Imported_Training_Data = Csv.Document(File_Content,[Delimiter=",", Columns=5, Encoding=1252, QuoteStyle=QuoteStyle.None]),
