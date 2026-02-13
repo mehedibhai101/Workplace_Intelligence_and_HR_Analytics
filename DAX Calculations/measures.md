@@ -359,7 +359,7 @@ This documentation provides a comprehensive overview of all DAX measures. It is 
     
     
     * **Formatting**: `Text`
-     
+   ㅤㅤ
     <img width="706" height="402" alt="Image" src="https://github.com/user-attachments/assets/11b0e8be-16ad-432e-bc6f-c5e36bc92825" />
 
 ---
