@@ -1,9 +1,9 @@
 let
     // Extracted the department data from the local HR directory.
-    Source_Folder = Folder.Files("C:\Users\perennial\OneDrive\Documents\_HR Analysis\Employee Data"),
+    Source_Folder = Folder.Files("your_folder_path"),
 
     // Accessed the specific binary content for the department lookup file.
-    File_Content = Source_Folder{[#"Folder Path"="C:\Users\perennial\OneDrive\Documents\_HR Analysis\Employee Data\",Name="dim_departments.csv"]}[Content],
+    File_Content = Source_Folder{[#"Folder Path"="your_folder_path\",Name="dim_departments.csv"]}[Content],
 
     // Imported the CSV document with the correct encoding and schema.
     Imported_Dept_Data = Csv.Document(File_Content,[Delimiter=",", Columns=3, Encoding=1252, QuoteStyle=QuoteStyle.None]),
