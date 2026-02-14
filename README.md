@@ -102,7 +102,7 @@ Based on the analysis, the following "Strategic Pillars" are recommended for the
 ## 📂 Repository Structure
 
 ```
-Advanced_End-to-End_Retial_Analytics/
+Workplace_Intelligence_and_HR_Analytics/
 │
 ├── Dashboard/                            # Final visualization and reporting outputs
 │   ├── assets/                           # Visual elements used in reports (logos, icons, etc.)
