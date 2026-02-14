@@ -2,7 +2,7 @@
 
 BanglaBazaar.com is a leading e-commerce enterprise in Bangladesh, currently employing over **1,100 professionals** across diverse functions including Logistics, Technology, and Sales. As the company scales toward a potential IPO, the "Human Capital" element has shifted from a support function to a primary strategic lever.
 
-This project focuses on **Workplace Intelligence**—moving beyond basic headcount reporting to understand the "Silent Attrition" and "Value Leakage" within the organization. While our overall turnover remains stable, we identified critical vulnerabilities in how we retain our most expensive and high-potential talent. This analysis serves as a roadmap for the Executive Leadership Team to transition from reactive hiring to a **Retention-First** talent strategy.
+This project focuses on **Workplace Intelligence**, moving beyond basic headcount reporting to understand the "Silent Attrition" and "Value Leakage" within the organization. While our overall turnover remains stable, we identified critical vulnerabilities in how we retain our most expensive and high-potential talent. This analysis serves as a roadmap for the Executive Leadership Team to transition from reactive hiring to a **Retention-First** talent strategy.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/6524517f-1b2d-42e3-9021-63ff269f1a04
 
 **DAX queries regarding various analytical calculations can be found [[here]](https://github.com/mehedibhai101/Workplace_Intelligence_and_HR_Analytics/tree/main/DAX%20Calculations).**
 
-**An interactive Power BI dashboard used to report and explore sales trends can be found [[here]](https://app.powerbi.com/view?r=eyJrIjoiZjY2NDZlOWUtNDkzMS00OWM3LTkzZDctNjZjZGY0YmUzNDQzIiwidCI6IjAwMGY1Mjk5LWU2YTUtNDYxNi1hNTI4LWJjZTNlNGUyYjk4ZCIsImMiOjEwfQ%3D%3D).**
+**An interactive Power BI dashboard used to report and explore analysis can be found [[here]](https://app.powerbi.com/view?r=eyJrIjoiZjY2NDZlOWUtNDkzMS00OWM3LTkzZDctNjZjZGY0YmUzNDQzIiwidCI6IjAwMGY1Mjk5LWU2YTUtNDYxNi1hNTI4LWJjZTNlNGUyYjk4ZCIsImMiOjEwfQ%3D%3D).**
 
 ---
 
