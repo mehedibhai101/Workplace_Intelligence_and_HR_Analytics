@@ -59,7 +59,7 @@ This documentation provides a comprehensive overview of all DAX calculated table
     Time-to-Promotion = 
     DATEDIFF(
         dim_employees[joining_date],
-        MAXX(RELATEDTABLE(fact_promotions), fact_promotions[prom_date]), 
+        MINX(RELATEDTABLE(fact_promotions), fact_promotions[prom_date]), 
         DAY
     ) / 365
     ```
