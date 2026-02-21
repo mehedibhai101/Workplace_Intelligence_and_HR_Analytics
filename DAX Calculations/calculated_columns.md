@@ -53,7 +53,7 @@ This documentation provides a comprehensive overview of all DAX calculated table
     ```
 
 
-* ** Time-to-Promotion**: Measures the duration (in years) between an employee's joining date and their most recent promotion.
+* **⏰ Time-to-Promotion**: Measures the duration (in years) between an employee's joining date and their most recent promotion.
     * **Formula**:
     ```dax
     Time-to-Promotion = 
