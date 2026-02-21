@@ -192,8 +192,6 @@ This documentation provides a comprehensive overview of all DAX measures. It is 
     RETURN 
         CALCULATE(
             COUNTROWS(dim_employees),
-            dim_employees[status] = "Resigned",
-            USERELATIONSHIP(dim_employees[exit_date], 'calendar'[Date]),
             dim_employees[exit_date] > PeriodStartDate && 
             dim_employees[exit_date] < PeriodEndDate
         )
