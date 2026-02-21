@@ -12,7 +12,6 @@ This documentation provides a comprehensive overview of all DAX measures. It is 
     Total Headcount = 
     CALCULATE(
         COUNTROWS(dim_employees),
-        dim_employees[status] = "Active",
         -- Filter to ensure joining date is before or on the selected date
         dim_employees[joining_date] <= MAX('calendar'[Date]),
         -- Ensure the employee hasn't left yet, or left after the selected date
@@ -31,7 +30,9 @@ This documentation provides a comprehensive overview of all DAX measures. It is 
     Total Employees = 
     CALCULATE(
         COUNTROWS(dim_employees),
-        dim_employees[joining_date] <= MAX('calendar'[Date])
+        dim_employees[joining_date] <= MAX('calendar'[Date]),
+    	  -- Ensure the employee hasn't left yet
+        dim_employees[exit_date] > MAX('calendar'[Date])
     )
     ```
     
