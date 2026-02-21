@@ -63,7 +63,7 @@ BanglaBazaar is a "Healthy Organization with a Pricing Problem." Our annual attr
 
 ### 📢 Recruitment Efficiency & Channel Risk
 
-* **The Bdjobs Dependency.** **45% of our successful hires** originate from https://www.google.com/search?q=Bdjobs.com. While effective for volume, this creates a "Single Point of Failure" in our talent sourcing strategy.
+* **The Bdjobs Dependency.** **45% of our successful hires** originate from Bdjobs.com. While effective for volume, this creates a "Single Point of Failure" in our talent sourcing strategy.
 * **LinkedIn vs. Referrals.** LinkedIn hires show the highest "Average Starting Salary" but also the **shortest average tenure (1.8 years)**, whereas Employee Referrals show a 30% higher retention rate over 3 years.
 * **Recruitment ROI.** The cost-per-hire for technical roles via agencies is 4x higher than internal moves, yet our "Internal Fill Rate" for Senior Engineer roles is currently below 10%.
 
